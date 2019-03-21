@@ -1,0 +1,13 @@
+StefanASUS@DESKTOP-NDST9M0 MINGW64 ~/Desktop/lab1 (logging)
+$ git log
+commit d9d9e62d0b9f16a6f7a520840db7add159474b21 (HEAD -> logging, origin/master, master)
+Author: strayckler <st.krstic@gmail.com>
+Date:   Thu Mar 21 09:36:19 2019 +0100
+
+    modify l1.txt
+
+commit f57149632e9cb97ce8fc4a4580e4b644c311250b
+Author: strayckler <st.krstic@gmail.com>
+Date:   Thu Mar 21 09:35:55 2019 +0100
+
+    Initial commit
